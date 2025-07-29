@@ -27,7 +27,7 @@ Esta é a lista oficial dos desenvolvedores que se juntaram a esta causa nobre.
 | --------------------- | ------------------- | --------------------------------------------- |
 | **➡️ Seu Nome Aqui**  | **➡️ @seu-usuario** | **➡️ Descreva aqui sua nova habilidade!**     |
 |                       |                     |                                               |
-|                       |                     |                                               |
+|             Juliana          |   DevJuliana-01               Nenhum ;)   |                                               |
 |                       |                     |                                               |
 
 ---
